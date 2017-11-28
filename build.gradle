@@ -24,7 +24,7 @@ allprojects {
 	}
 
 	group 'com.soywiz'
-	version '0.0.2-SNAPSHOT'
+	version '0.18.0'
 
 	if (project == rootProject) {
 		new File(rootProject.rootDir, "korfl/common/src/main/kotlin/com/soywiz/korfl/KorflVersion.kt").write(
