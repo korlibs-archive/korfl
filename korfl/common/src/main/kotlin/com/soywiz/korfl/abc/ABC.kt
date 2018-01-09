@@ -1,6 +1,6 @@
 package com.soywiz.korfl.abc
 
-import com.soywiz.kds.ext.mapWhile
+import com.soywiz.kds.mapWhile
 import com.soywiz.korio.error.invalidOp
 import com.soywiz.korio.stream.*
 
