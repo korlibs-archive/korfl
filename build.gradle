@@ -1,5 +1,5 @@
 buildscript {
-	ext.projectVersion = '0.19.0-SNAPSHOT'
+	ext.projectVersion = '0.19.0'
 	ext.projectName = 'korfl'
 	ext.projectGroup = 'com.soywiz'
 	ext.projectDesc = 'Korfl: Parse Adobe Animate SWF files in JVM and JS'
